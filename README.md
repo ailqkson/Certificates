@@ -1,1 +1,1 @@
-# Certificates from SOftware University Python Full Stack Developer path
+# Certificates from Software University Python Full Stack Developer path
